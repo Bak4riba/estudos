@@ -44,7 +44,7 @@ Imaginemos agora que nessa tabela Clientes queremos solicitar ao banco de dados 
 Simples! Definimos um campo que seja unico para cada cliente, nem sempre haverá um atributo no mundo real que possa identificar cada registro, ou cada cliente no nosso caso.Então dispomos de um campo, por exemplo um ID que seja uma identificação unica de cada cliente, vide exemplo.
 
 |Clientes |                           |                               |                |
-|:---------:|-|:---------------------:|:-----------------------------:|:--------------:|
+|:--------:|:------------------------:|:-----------------------------:|:--------------:|
 |**_ID_** |  **_Nome_**               | **_Sobrenome_**               | **_Telefone_** |
 |   1     | João                      | Da Silva                      | (42)99999-8888 |
 |   2     | Marcio                    | Oliveira                      | (42)99999-8888 |
